@@ -223,6 +223,8 @@ Log Analytics (?)
 Create Alerts
 TIP: Top Alerts
 
+Give a tip on alerting. Perhaps around action groups.
+
 ## Cost Management
 
 One of the major changes that you will face when you move from on-premises cloud to the public cloud is the switch from capital expenditures (buying hardware) to operating expenditure (paying for service as you use it). This switch from CAPEX to OPEX also brings the need to more carefully manage your costs. The benefit of the cloud is that you can fundamentally and positively impact the cost of a service you use by merely turning it off (or resizing) when it's not needed. The flip side is that you can inadvertently  spend beyond your intent if you are not careful. Deliberately  managing your costs in the cloud is a recommended practice and one that mature customers do on a daily basis.
