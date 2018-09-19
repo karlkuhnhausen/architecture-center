@@ -215,6 +215,9 @@ Summary
 ## Monitor and Alerts
 
 Intro
+
+Karl to Add Monitor content here.
+
 Azure Monitor
 Log Analytics (?)
 Create Alerts
